@@ -141,7 +141,6 @@
 #footer .f-bottom{
     width: 100%;
     min-width: 1200px;
-    padding-bottom: 136px;
     background-color: #e6e6e6;
 }
 #footer .f-bottom .botarea{
